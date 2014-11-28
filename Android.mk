@@ -1,4 +1,4 @@
-LOCAL_PATH := $(call /home/vesy_j/)
+LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 
